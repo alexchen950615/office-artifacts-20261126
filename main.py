@@ -6,9 +6,10 @@ treated as an ancient artifact, to /output/entry.txt and prints it.
 """
 
 LINE = (
-    "Stapler, c. 1998. Pressed steel. Ritual binding device; "
-    "one squeeze sealed a document, and occasionally a career. "
-    "Gift of the department that no longer exists."
+    "Mouse, c. 1999. Moulded plastic. A hand-held idol, "
+    "stroked daily by office priests to summon a cursor; "
+    "the wheel turned, and nothing else moved. "
+    "Gift of the IT department."
 )
 
 
